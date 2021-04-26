@@ -1,1 +1,3 @@
 Hello Aankiet 
+
+git init if not done it will reflect any changes done in other branch also
